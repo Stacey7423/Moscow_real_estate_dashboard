@@ -42,6 +42,7 @@ Power BI dashboard analyzing the Moscow secondary real estate market in 2020-202
 - okrug - округ
 - building_type - тип постройки (кирпичный/монолитный/панельный/современный панельный/сталинский/хрущевский)
 - renovation_type - тип ремонта (без ремонта, дизайнерский, евроремонт, косметический)
+- year - год публикации объявления
 - rental_price_per_sqm_monthly - ставка аренды в месяц (руб./м²)
 
 ## Стек
